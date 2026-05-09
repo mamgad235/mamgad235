@@ -55,7 +55,7 @@ A real-time personal protective equipment detection system to enhance worker saf
 - **Impact**: Automates safety compliance monitoring and prevents workplace accidents
 - **Model**: Custom-trained YOLOv8 for detecting hard hats, vests, and safety equipment
 
-### [Plant Disease Detection](https://github.com/mamgad235/plant-disease-detection)
+### [Plant Disease Detection](https://github.com/mamgad235/Plant-Disease-DL)
 An intelligent system for automated plant disease identification using deep learning to help farmers and agricultural experts.
 - **Tech Stack**: Python, TensorFlow, CNN
 - **Key Features**: Image classification, disease identification, confidence metrics
