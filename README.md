@@ -31,6 +31,7 @@ I'm driven by curiosity and a deep interest in building intelligent systems. I b
 
 ### Backend & Frontend
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Data & Tools
@@ -38,8 +39,6 @@ I'm driven by curiosity and a deep interest in building intelligent systems. I b
 - PostgreSQL for database management
 - Jupyter Notebooks
 - Git & GitHub
-- Hugging Face
-- Docker
 
 ## 📊 GitHub Stats
 
@@ -66,7 +65,6 @@ An intelligent system for automated plant disease identification using deep lear
 ## 📚 Currently Learning & Working On
 
 - 🔴 **Advanced YOLOv8 Optimization**: Fine-tuning for edge deployment
-- 🔴 **Real-time Detection Systems**: Building scalable CV pipelines
 - 📖 Reinforcement Learning
 - 📖 Large Language Models (LLMs)
 - 📖 MLOps & Model Deployment
@@ -76,10 +74,7 @@ An intelligent system for automated plant disease identification using deep lear
 
 I'm always excited to discuss AI/ML projects, collaborate on research, or chat about the future of artificial intelligence and computer vision!
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
 - 📧 [Email](mailto:amgad.galaxy.e5@gmail.com)
-- 🌐 [Portfolio Website](https://your-website.com)
 
 ## 💡 Open to
 
