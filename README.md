@@ -28,6 +28,7 @@ I'm driven by curiosity and a deep interest in building intelligent systems. I b
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ### Backend & Frontend
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -40,11 +41,10 @@ I'm driven by curiosity and a deep interest in building intelligent systems. I b
 - Jupyter Notebooks
 - Git & GitHub
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamgad235&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamgad235&layout=compact&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/mamgad235?style=social)](https://github.com/mamgad235)
+[![GitHub User's stars](https://img.shields.io/github/stars/mamgad235?style=social)](https://github.com/mamgad235)
 
 ## 🌟 Featured Projects
 
@@ -55,12 +55,18 @@ A real-time personal protective equipment detection system to enhance worker saf
 - **Impact**: Automates safety compliance monitoring and prevents workplace accidents
 - **Model**: Custom-trained YOLOv8 for detecting hard hats, vests, and safety equipment
 
-### [Plant Disease Detection](https://github.com/mamgad235/Plant-Disease-DL)
-An intelligent system for automated plant disease identification using deep learning to help farmers and agricultural experts.
-- **Tech Stack**: Python, TensorFlow, CNN
-- **Key Features**: Image classification, disease identification, confidence metrics
-- **Impact**: Enables early disease detection and prevention strategies
-- **Model**: Deep learning CNN trained on diverse plant disease datasets
+### [Plant Disease Detection: Custom CNN vs Transfer Learning](https://github.com/mamgad235/Plant-Disease-DL)
+An end-to-end Deep Learning pipeline identifying 38 different plant disease classes from leaf images. Rigorous comparative engineering between custom CNN and MobileNetV2 transfer learning approaches.
+- **Tech Stack**: Python, TensorFlow, Keras, CNN
+- **Dataset**: New Plant Diseases Dataset (87K+ images)
+- **Key Features**: 
+  - Custom CNN model (96% accuracy)
+  - MobileNetV2 transfer learning (90% accuracy)
+  - Strict data isolation with unseen test set
+  - On-the-fly GPU data augmentation
+  - Dynamic early stopping with best weight restoration
+- **Impact**: Enables early plant disease detection for farmers and agricultural experts
+- **Models**: Trained on GPU pipeline with rigorous evaluation using F1-Scores and Confusion Matrices
 
 ## 📚 Currently Learning & Working On
 
