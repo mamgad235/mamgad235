@@ -39,8 +39,6 @@ Deep Learning pipeline identifying 38 plant disease classes from leaf images.
 ## 📚 Currently Learning
 
 - Advanced YOLOv8 Optimization
-- Reinforcement Learning
-- Large Language Models (LLMs)
 - MLOps & Model Deployment
 
 ## 🤝 Let's Connect
