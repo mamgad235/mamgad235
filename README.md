@@ -45,7 +45,7 @@ Deep Learning pipeline identifying 38 plant disease classes from leaf images.
 
 📧 [Email](mailto:amgad.galaxy.e5@gmail.com)
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedamgad2352002)
+[![Kaggle Stats](https://kaggle-stats.vercel.app/api?username=your_username&theme=dark)](https://www.kaggle.com/mohamedamgad2352002)
 
 ## 💡 Open to
 
