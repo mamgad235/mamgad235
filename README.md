@@ -47,6 +47,7 @@ Deep Learning pipeline identifying 38 plant disease classes from leaf images.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=1)](https://www.linkedin.com/in/mohamed-amgad-92433340a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedamgad2352002)
 
+
 ## 💡 Open to
 
 - Collaborating on AI/ML and Computer Vision projects
