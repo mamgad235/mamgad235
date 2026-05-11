@@ -43,7 +43,7 @@ Deep Learning pipeline identifying 38 plant disease classes from leaf images.
 
 ## 🤝 Let's Connect
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:m_amgad235@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:m_amgad235@outlook.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedamgad2352002)
 
 ## 💡 Open to
