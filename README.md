@@ -36,6 +36,12 @@ Deep Learning pipeline identifying 38 plant disease classes from leaf images.
 - **Dataset**: 87K+ images with rigorous data isolation
 - **Impact**: Early disease detection for farmers
 
+### [King County House Pricing](https://github.com/mamgad235/King-County-House-Pricing-PySpark)
+Machine learning pipeline to predict property values using big data frameworks.
+- **Tech**: Python, PySpark, Gradient-Boosted Trees
+- **Features**: Custom feature engineering, scalable pipeline, rigorous RMSE and R² analysis
+- **Impact**: Accurate real estate forecasting utilizing large-scale dataset processing
+
 ## 📚 Currently Learning
 
 - Advanced YOLOv8 Optimization
